@@ -1,0 +1,8 @@
+{
+  "name": "Remix J\u0026E bloom and Events 2",
+  "description": "Bespoke floral design, luxury bouquets, and curated botanical arrangements for every occasion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
